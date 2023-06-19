@@ -6,10 +6,7 @@ class index extends Component {
     render() {
         return (
             <div>
-                <h1>heme</h1>
-                <p>lorem
-                    fnsd
-                </p>
+                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tenetur est, id ab praesentium iure dolor provident eveniet beatae natus officia aspernatur ad ut reprehenderit quasi vero voluptates laborum rerum sequi!
                 {/* <Footer/> */}
             </div>
         );
